@@ -1,5 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-# 💫 About Me:
+
 👋 Hello Guys!, I'm Himanshu K. Chambhare!<br>I'm a passionate Data Analyst & Data Engineer with expertise in Python, SQL, Power BI, and Machine Learning. I love transforming raw data into meaningful insights to drive business decisions and optimize strategies.<br><br>🔹 What I Do:<br><br>Data Cleaning, Analysis & Visualization<br>Business Intelligence (Power BI, Tableau)<br>Machine Learning & Predictive Modeling<br>SQL & Database Management<br>Data Engineering (Azure Data Factory, ETL)<br>🚀 Currently Working On:<br><br>📊 Blinkit Sales SQL Case Study – Data extraction, transformation, and insights<br>🐍 Python Data Analysis on Blinkit – Trend analysis and key metrics<br>📈 Power BI Report – Interactive dashboards for better decision-making<br><br>🔗 Let's Connect:<br><br>[LinkedIn](https://www.linkedin.com/in/himanshu842/) | [GitHub](https://github.com/himanshu522842)
 
 

@@ -2,8 +2,7 @@
 
 👋 Hello Guys!,
 #### I'm Himanshu Chambhare
-<br>I'm a passionate Data Analyst & Data Engineer with expertise in Python, SQL, Power BI, and Machine Learning. I love transforming raw data into meaningful insights to drive business decisions and optimize strategies.<br><br>🔹 What I Do:<br><br>Data Cleaning, Analysis & Visualization<br>Business Intelligence (Power BI, Tableau)<br>Machine Learning & Predictive Modeling<br>SQL & Database Management<br>Data Engineering (Azure Data Factory, ETL)<br>🚀 Currently Working On:<br><br>📊 Blinkit Sales SQL Case Study – Data extraction, transformation, and insights<br>🐍 Python Data Analysis on Blinkit – Trend analysis and key metrics<br>📈 Power BI Report – Interactive dashboards for better decision-making<br><br>🔗 Let's Connect:<br><br>[LinkedIn](https://www.linkedin.com/in/himanshu842/) | [GitHub](https://github.com/himanshu522842)
-
+<br>I'm a passionate Data Analyst & Data Engineer with expertise in Python, SQL, Power BI, and Machine Learning. I love transforming raw data into meaningful insights to drive business decisions and optimize strategies.<br><br>🔹 What I Do:<br><br>Data Cleaning, Analysis & Visualization<br>Business Intelligence (Power BI, Tableau)<br>Machine Learning & Predictive Modeling<br>SQL & Database Management<br>Data Engineering (Azure Data Factory, ETL)<br>🚀 Currently Working On:<br><br>📊 Blinkit Sales SQL Case Study – Data extraction, transformation, and insights<br>🐍 Python Data Analysis on Blinkit – Trend analysis and key metrics<br>📈 Power BI Report – Interactive dashboards for better decision-making
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu842/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu522842@gmail.com) 
@@ -27,7 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=himanshu522842&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Snake animation](https://raw.githubusercontent.com/himanshu522842/himanshu522842/output/snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu522842/himanshu522842/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu522842/himanshu522842/output/github-snake.svg" />
